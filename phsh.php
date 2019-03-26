@@ -7,8 +7,8 @@ data: password={YOUR_PASSWORD}
 
 <?php
 
-@ini_set("max_execution_time", 99999);
-$debug = true;
+@ini_set("max_execution_time", 9999);
+$debug = false;
 
 // Start
 
