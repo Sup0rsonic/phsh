@@ -25,4 +25,5 @@ and just use as a ssh client
 - [ ] TTY  
 
 ##### Other
+****************
 So somebody just wanna ask for usage... Just check for f\*king git.
