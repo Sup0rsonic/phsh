@@ -15,6 +15,14 @@ POST /?port={{port}}
 data: password={{password}}  
 nc targetaddr port  
 and just use as a ssh client
-   
-    
+
+### To-dos
+****************
+- [x] Interactive shell  
+- [x] File operands  
+- [ ] More functions for experience  
+- [ ] Debug  
+- [ ] TTY  
+
+##### Other
 So somebody just wanna ask for usage... Just check for f\*king git.
